@@ -1,1 +1,18 @@
 /* for later */
+
+body {
+    background-color: #F5E7C6;
+}
+
+
+
+
+
+hr {
+    border-color: black;
+}
+
+.pages {
+    text-decoration: none;
+    color: red;
+}
