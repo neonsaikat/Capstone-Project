@@ -1,7 +1,7 @@
 /* for later */
 
 body {
-    background-color: #F5E7C6;
+    background-color:;
 }
 
 
@@ -12,7 +12,15 @@ hr {
     border-color: black;
 }
 
-.pages {
+.Pages {
     text-decoration: none;
-    color: red;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: ;
 }
